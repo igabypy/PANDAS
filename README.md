@@ -1,2 +1,2 @@
 # PANDAS
-The notebook shows the basic tools to manipulate dataframes.
+To show the basic tools to manipulate dataframes.
